@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Blind XSS Manager",
+  "version": "1.0",
+  "description": "A Chrome extension that keeps track of the injected urls with Blind XSS payloads.",
+
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+    "default_icon": "icon.png",
+    "default_title": "Blind XSS Manager",
+    "default_popup": "popup.html"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
