@@ -21,12 +21,18 @@ Built with the assistance of AI.
 - **Details Tag** - HTML5 details element injection
 - **Polyglot Payload** - Advanced multi-context injection vector
 
+<img width="594" height="711" alt="Screenshot 2025-07-14 at 11 52 59 AM" src="https://github.com/user-attachments/assets/57a02139-a453-4fba-b412-b232cc807605" />
+
+
 ### History Management
 - **Search Functionality** - Find specific entries quickly
 - **Time-based Filtering** - Filter by today, week, month, or all time
 - **Export Options** - Export as CSV, JSON, or TXT
 - **Individual Entry Management** - Copy hashes, URLs, or delete specific entries
 - **Statistics Dashboard** - View injection metrics
+
+<img width="800" height="707" alt="Screenshot 2025-07-14 at 11 53 45 AM" src="https://github.com/user-attachments/assets/b1bd32d6-13ed-4eb5-8ef1-832bdc28e0ec" />
+
 
 ## 📦 Installation
 
