@@ -1,6 +1,10 @@
 # Blind XSS Manager
 
-A Chrome extension for managing Blind XSS payloads with a streamlined interface and essential features for security testing.
+A Chrome extension designed for efficient management of Blind XSS payloads, offering a streamlined interface and essential features for security testing.
+
+Inspired by [SeifElsallamy's Blind-XSS-Manager.](https://github.com/SeifElsallamy/Blind-XSS-Manager)
+
+Built with the assistance of AI.
 
 ## 🚀 Features
 
